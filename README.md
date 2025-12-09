@@ -4,7 +4,7 @@
 > Yu Xu</a><sup>1,2†</sup>, Hongbin Yan</a><sup>1</sup>, Juan Cao</a><sup>1</sup>, Yiji Cheng</a><sup>2</sup>, Tiankai Hang</a><sup>2</sup>, Runze He</a><sup>2</sup>, Zijin Yin</a><sup>2</sup>, Shiyi Zhang</a><sup>2</sup>, Yuxin Zhang</a><sup>1</sup>, Jintao Li</a><sup>1</sup>, Chunyu Wang</a><sup>2‡</sup>, Qinglin Lu</a><sup>2</sup>, Tong-Yee Lee</a><sup>3</sup>, Fan Tang</a><sup>1§</sup> <br>
 > <sup>1</sup>University of Chinese Academy of Sciences, <sup>2</sup>Tencent Hunyuan, <sup>3</sup>National Cheng-Kung University
 
-![](https://yuci-gpt.github.io/TAG-MoE/static/images/teaser.png)
+![](https://raw.githubusercontent.com/yuci-gpt/TAG-MoE/refs/heads/master/static/images/teaser.png)
 
 
 >**Abstract**: <br>
