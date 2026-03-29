@@ -1,0 +1,26 @@
+[project]
+name = "tag-moe"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "accelerate==1.10.1",
+    "diffusers",
+    "gradio>=5.49.1",
+    "grouped-gemm",
+    "loguru>=0.7.3",
+    "megablocks==0.10.0",
+    "numpy<2.1.0",
+    "pillow>=12.1.1",
+    "qwen-vl-utils>=0.0.14",
+    "safetensors>=0.7.0",
+    "torch==2.7.0",
+    "torchvision==0.22.0",
+    "transformers==4.56.2",
+    "triton>=3.3.0",
+]
+
+[tool.uv.sources]
+diffusers = { git = "https://github.com/huggingface/diffusers.git", rev = "0e12ba74542c6ecb02719ec3e5c6e993b85556e3" }
+grouped-gemm = { git = "https://github.com/tgale96/grouped_gemm", rev = "f1429a3c44c98f7912aa4b00125144cdf4e7fdb2" }
