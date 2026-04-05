@@ -4,9 +4,10 @@
 > Yu Xu<sup>1,2†</sup>, Hongbin Yan<sup>1</sup>, Juan Cao<sup>1</sup>, Yiji Cheng<sup>2</sup>, Tiankai Hang<sup>2</sup>, Runze He<sup>2</sup>, Zijin Yin<sup>2</sup>, Shiyi Zhang<sup>2</sup>, Yuxin Zhang<sup>1</sup>, Jintao Li<sup>1</sup>, Chunyu Wang<sup>2‡</sup>, Qinglin Lu<sup>2</sup>, Tong-Yee Lee<sup>3</sup>, Fan Tang<sup>1§</sup><br>
 > <sup>1</sup>University of Chinese Academy of Sciences, <sup>2</sup>Tencent Hunyuan, <sup>3</sup>National Cheng-Kung University
 
-<a href='https://arxiv.org/abs/2601.08881'><img src='https://img.shields.io/badge/ArXiv-2505.20271-red'></a> 
-<a href='https://yuci-gpt.github.io/TAG-MoE/'><img src='https://img.shields.io/badge/Project%20Page-Homepage-green'></a>
-<a href='https://huggingface.co/YUXU915/TAG-MoE'><img src='https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface'></a>
+<a href='https://arxiv.org/abs/2601.08881'><img src='https://img.shields.io/badge/ArXiv-2601.08881-red'></a> 
+<a href='https://yuci-gpt.github.io/TAG-MoE/'><img src='https://img.shields.io/badge/Project%20Page-homepage-green'></a>
+<a href='https://huggingface.co/YUXU915/TAG-MoE'><img src='https://img.shields.io/badge/HuggingFace-weights-F9A825?logo=huggingface'></a>
+<a href='https://huggingface.co/spaces/YUXU915/TAG-MoE'><img src='https://img.shields.io/badge/HuggingFace-demo-4CAF50?logo=huggingface'></a>
 
 ![](https://raw.githubusercontent.com/yuci-gpt/TAG-MoE/refs/heads/master/static/images/teaser.png)
 
